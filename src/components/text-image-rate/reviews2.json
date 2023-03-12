@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_text_image_rate_reviews2s",
+  "info": {
+    "displayName": "reviews",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "reviewText": {
+      "type": "richtext"
+    },
+    "reviewRating": {
+      "type": "enumeration",
+      "enum": [
+        "bad",
+        "poor",
+        "satisfactory",
+        "good",
+        "excellent"
+      ]
+    }
+  }
+}
